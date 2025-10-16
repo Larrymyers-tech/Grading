@@ -1,0 +1,51 @@
+﻿Build started 07/10/2025 17:38:19.
+     1>Project "C:\Users\HP\Desktop\grading system\primary grading system\primary grading system\primary grading system.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\primary grading system.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\primary grading system.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Users\HP\Desktop\C++ notes 2025\MySql.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt "primary grading system.cpp" /clr:nostdlib 
+         primary grading system.cpp
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(412): error C2065: 'textBoxScience' : undeclared identifier
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(412): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(439): error C2065: 'textBoxRemark' : undeclared identifier
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(439): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(449): error C2065: 'textBox10' : undeclared identifier
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(449): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(450): error C2065: 'textBox11' : undeclared identifier
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(450): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(451): error C2065: 'textBox1' : undeclared identifier
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(451): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(452): error C2065: 'textBox2' : undeclared identifier
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(452): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(453): error C2065: 'textBox3' : undeclared identifier
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(453): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(454): error C2065: 'textBox4' : undeclared identifier
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(454): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(455): error C2065: 'textBox8' : undeclared identifier
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(455): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(456): error C2065: 'textBox9' : undeclared identifier
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(456): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(457): error C2065: 'textBox12' : undeclared identifier
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(457): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(458): error C2065: 'textBox13' : undeclared identifier
+     1>c:\users\hp\desktop\grading system\primary grading system\primary grading system\Form1.h(458): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>Done Building Project "C:\Users\HP\Desktop\grading system\primary grading system\primary grading system\primary grading system.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.59
